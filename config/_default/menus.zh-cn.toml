@@ -11,9 +11,55 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "小说"
+  name = "小梦文学"
   pageRef = "fictions"
   weight = 10
+
+[[main]]
+  name = "小梦感想"
+  pageRef = "reflections"
+  weight = 11
+
+[[main]]
+  name = "小梦知识"
+  pageRef = "knowleges"
+  weight = 12
+
+[[main]]
+  name = "小梦画廊"
+  pageRef = "galleries"
+  weight = 13
+
+[[main]]
+  name = "小梦游戏"
+  pageRef = "games"
+  weight = 14
+
+[[main]]
+  name = "小梦音乐"
+  pageRef = "musics"
+  weight = 15
+
+[[main]]
+  name = "小梦造语"
+  pageRef = "conlingue"
+  weight = 16
+
+[[main]]
+  name = "小梦宇宙"
+  pageRef = "spaces"
+  weight = 17
+
+[[main]]
+  name = "小梦程序"
+  pageRef = "bilibili"
+  weight = 18
+
+
+[[main]]
+  name = "小梦其它"
+  pageRef = "others"
+  weight = 25
 
 #[[main]]
 #  name = "Parent"
@@ -48,7 +94,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Tags"
+  name = "小梦标签"
   pageRef = "tags"
   weight = 30
 
