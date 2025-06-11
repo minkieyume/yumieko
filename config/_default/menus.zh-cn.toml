@@ -10,45 +10,41 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "小梦博客"
-  pageRef = "post"
-  weight = 10
 
 [[subnavigation]]
   name = "小梦文学"
-  pageRef = "post/fictions"
+  pageRef = "fictions"
   weight = 10
 
 [[subnavigation]]
   name = "小梦感想"
-  pageRef = "post/reflections"
+  pageRef = "reflections"
   weight = 11
 
 [[subnavigation]]
   name = "小梦知识"
-  pageRef = "post/knowleges"
+  pageRef = "knowleges"
   weight = 12
 
 [[subnavigation]]
   name = "小梦程序"
-  pageRef = "post/programs"
+  pageRef = "programs"
   weight = 18
 
 [[subnavigation]]
   name = "小梦游戏"
-  pageRef = "post/games"
+  pageRef = "games"
   weight = 14
 
 
 [[subnavigation]]
   name = "小梦其它"
-  pageRef = "post/others"
+  pageRef = "others"
   weight = 25
 
 [[subnavigation]]
   name = "小梦音乐"
-  pageRef = "post/musics"
+  pageRef = "musics"
   weight = 15
 
 [[main]]
