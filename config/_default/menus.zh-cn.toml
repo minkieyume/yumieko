@@ -52,7 +52,7 @@
 
 [[main]]
   name = "小梦程序"
-  pageRef = "bilibili"
+  pageRef = "programs"
   weight = 18
 
 
