@@ -1,17 +1,17 @@
 disabled = false
-languageCode = "cn"
+languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
 title = "小梦的秘密基地"
 
 [params]
   displayName = "CN"
-  isoCode = "cn"
+  isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "欢迎来到小梦的秘密基地~"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
