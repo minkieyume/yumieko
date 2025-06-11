@@ -11,18 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "小梦文学"
-  pageRef = "fictions"
+  name = "小梦博客"
+  pageRef = "post"
   weight = 10
 
-[[main]]
+[[subnavigation]]
+  name = "小梦文学"
+  pageRef = "post/fictions"
+  weight = 10
+
+[[subnavigation]]
   name = "小梦感想"
-  pageRef = "reflections"
+  pageRef = "post/reflections"
   weight = 11
 
 [[main]]
   name = "小梦知识"
-  pageRef = "knowleges"
+  pageRef = "post/knowleges"
   weight = 12
 
 [[main]]
@@ -32,7 +37,7 @@
 
 [[main]]
   name = "小梦游戏"
-  pageRef = "games"
+  pageRef = "post/games"
   weight = 14
 
 [[main]]
@@ -52,13 +57,13 @@
 
 [[main]]
   name = "小梦程序"
-  pageRef = "programs"
+  pageRef = "post/programs"
   weight = 18
 
 
 [[main]]
   name = "小梦其它"
-  pageRef = "others"
+  pageRef = "post/others"
   weight = 25
 
 #[[main]]
