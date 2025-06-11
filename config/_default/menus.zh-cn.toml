@@ -25,10 +25,31 @@
   pageRef = "post/reflections"
   weight = 11
 
-[[main]]
+[[subnavigation]]
   name = "小梦知识"
   pageRef = "post/knowleges"
   weight = 12
+
+[[subnavigation]]
+  name = "小梦程序"
+  pageRef = "post/programs"
+  weight = 18
+
+[[subnavigation]]
+  name = "小梦游戏"
+  pageRef = "post/games"
+  weight = 14
+
+
+[[subnavigation]]
+  name = "小梦其它"
+  pageRef = "post/others"
+  weight = 25
+
+[[subnavigation]]
+  name = "小梦音乐"
+  pageRef = "post/musics"
+  weight = 15
 
 [[main]]
   name = "小梦画廊"
@@ -36,35 +57,14 @@
   weight = 13
 
 [[main]]
-  name = "小梦游戏"
-  pageRef = "post/games"
-  weight = 14
-
-[[main]]
-  name = "小梦音乐"
-  pageRef = "musics"
-  weight = 15
-
-[[main]]
-  name = "小梦造语"
-  pageRef = "conlingue"
-  weight = 16
-
-[[main]]
   name = "小梦宇宙"
   pageRef = "spaces"
   weight = 17
 
 [[main]]
-  name = "小梦程序"
-  pageRef = "post/programs"
-  weight = 18
-
-
-[[main]]
-  name = "小梦其它"
-  pageRef = "post/others"
-  weight = 25
+  name = "小梦造语"
+  pageRef = "conlingue"
+  weight = 16
 
 #[[main]]
 #  name = "Parent"
