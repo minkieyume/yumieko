@@ -1,7 +1,7 @@
 +++
 title = "香格里拉平原的嬉闹"
 author = ["MinkieYume"]
-lastmod = 2025-06-15T15:01:14+08:00
+lastmod = 2025-06-15T16:48:22+08:00
 tags = ["绘画笔记", "原创", "风信子", "香格里拉", "小萱"]
 categories = ["绘画笔记"]
 draft = false

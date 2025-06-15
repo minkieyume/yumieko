@@ -1,7 +1,7 @@
 +++
 title = "可爱的灵梦"
 author = ["MinkieYume"]
-lastmod = 2025-06-15T15:01:04+08:00
+lastmod = 2025-06-15T16:48:16+08:00
 tags = ["绘画笔记", "春卷饭", "灵梦", "同人"]
 categories = ["绘画笔记"]
 draft = false
