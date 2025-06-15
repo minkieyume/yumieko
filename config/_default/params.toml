@@ -44,7 +44,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "hero.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -87,10 +87,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false
@@ -113,7 +113,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
   showHero = false
