@@ -76,6 +76,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   invertPagination = false
   showReadingTime = true
   showTableOfContents = false
+  showComments = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
