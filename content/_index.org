@@ -1,3 +1,0 @@
-#+Title:Index
-* 这是一个索引的测试
-test
