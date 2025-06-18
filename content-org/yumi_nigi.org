@@ -1,0 +1,136 @@
+#+hugo_base_dir: ~/工作目录/小梦之家/建站维护/yumieko/
+#+hugo_auto_set_lastmod: t
+#+hugo_custom_front_matter: toc true
+#+hugo_categories: 日志归档
+#+filetags: 日志归档
+#+Title:日志归档
+
+* 风雨旅记开发日志 #1基础的关卡原型完成 :风雨旅记:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/fuurain_nigigd_1
+:EXPORT_FILE_NAME: index
+:END:
+当时在做一款以跟各个有趣队友交朋友，利用各队友的特性合作解谜和战斗为核心玩法的游戏，目前最基本的关卡原型做出来了，因为还没有美工而且仍然在原型阶段，因此完成度非常低。
+
+#+begin_export hugo
+{{< bilibili BV1bY41117F2 >}}
+#+end_export
+
+* Godot 类东方 STG模板演示视频 :STG:游戏日志:东方Project:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/godot_touhou_template
+:EXPORT_FILE_NAME: index
+:END:
+
+#+begin_export hugo
+{{< bilibili BV1vG411g7BW >}}
+#+end_export
+
+* 风雨旅记开发日志 #2战斗机制基本内容完成 :风雨旅记:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/fuurain_nigigd_2
+:EXPORT_FILE_NAME: index
+:END:
+战斗机制是以之前做的那个STG模板为基础做的，即便是目前为止，仍有许多bug在持续开发过程中需要优化。
+
+#+begin_export hugo
+{{< bilibili BV11R4y1Y72e >}}
+#+end_export
+
+* 香格里拉物语：小萱失踪案开发日志#1 新项目的立项 :香格里拉:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/shangrira_gd_1
+:EXPORT_FILE_NAME: index
+:ID:       45c448ff-ec89-4f35-b79e-504091e323a5
+:END:
+最近立项新的项目了，吸取了前几次失败的经验教训，这次会确立个更全面、更明确的规划方向，策划方面的方向也会多注重项目管理，将策划的案子写清楚，总之是先从草案开始的。
+
+在开始制作之前，先写了个比较乱和字特别多的版本的策划案子，然后就试着用桌游的形式做了几个原型测试，迭代了几次之后算是获得了一个能玩的结果，于是开始程序这边的原型测试和开发了。
+
+然后开发过程中感觉那个案子太乱了，于是精简了许多，做了个更简单，图文并茂的策划草案。
+
+之后打算再进一步补一个更详细的策划案，我发现策划草案和策划案还是别混在一起为好，尽量分开做，而且策划案最好多用图表述，尽量减少语言的复杂性，要确保可读性很强才行。
+
+因为没有美术，队伍基本只是一程一策的阵容，所以美术、音乐方面都由我来补课了。
+
+素材资源暂时用的itch上的付费素材，之后再根据需求自己绘制和修改素材。
+
+进度方面，目前做了基本的追逐和地形，还有简单的耐力机制，打算做好一套完整的追逐战机制后再更进一步迭代和调整追逐战方面的内容。
+
+附上简化许多之后的策划草案和游戏内的进度测试图。
+
+[[https://i1.hdslb.com/bfs/new_dyn/watermark/fac1770080c65b2e77df46833308408332190208.png@1192w.avif]]
+[[https://i1.hdslb.com/bfs/new_dyn/watermark/90530770e8a6178f86fb7c265ad26f4632190208.png@1192w.avif]]
+[[https://i1.hdslb.com/bfs/new_dyn/watermark/0ae786ea8b4aa13b2f6980b1037f10f332190208.png@1192w.avif]]
+[[https://i1.hdslb.com/bfs/new_dyn/watermark/53dee1a5a392492737c11d55a3ed895c32190208.png@1192w.avif]]
+
+
+* 风雨旅记开发日志 #3 愉快地推翻重来——和伙伴一起测试新的原型中 :风雨旅记:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/fuurain_nigigd_3
+:EXPORT_FILE_NAME: index
+:END:
+最近重新布局和规划了一下项目的走向，因为之前的项目走向遇到了玩法上的很多问题，因此对项目重新进行了布局和规划。
+现在打算往2D合作玩法的弹幕战斗+解谜游戏的方向进行开发，一次次推倒重来自己的项目虽然挺痛苦的，但和伙伴在一起测试游戏的时候还是很快乐，而且可以亲眼看到自己的游戏也许会比之前的做得更有意思，就挺开心的。
+
+#+begin_export hugo
+{{< bilibili BV1JM411s7bi >}}
+#+end_export
+
+* 香格里拉物语：小萱失踪案开发日志#2简单的抓猫猫AI范例完成 :香格里拉:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/shangrira_gd_2
+:EXPORT_FILE_NAME: index
+:END:
+[[https://i1.hdslb.com/bfs/article/1abca5e404c3b193d45c2ad69950a9ed32190208.png@1192w.avif]]
+经过两周左右的努力，终于做出来了一个简单的抓猫猫部分的基础AI。
+
+在此期间大部分时间都花在了修bug和行为树的建立上，算是完成了追逐战最核心的一个机制了。
+
+在此期间积累了许多关于行为树的经验，熟悉了行为树的设计流程，完善了角色、角色效果和地形方面的功能，完成了视线和躲藏机制的构建，复习了着色器功能的使用，同时也完善了一些故事和背景设定方面的内容。
+
+不要介意两个日志的发布时间，中途因为工作、参加gamjam和过年等原因忙了不少时间，因此到现在才完成这部分的内容。
+
+#+begin_export hugo
+{{< bilibili BV1Aj421D7m5 >}}
+#+end_export
+
+* 香格里拉物语：小萱失踪案开发日志#3 :香格里拉:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/shangrira_gd_3
+:EXPORT_FILE_NAME: index
+:END:
+第一个基础的原型制作完成了，到这里，游戏算是有了一个可玩的基础雏形。接下来要做的工作就是迭代和完善这次的原型了。
+
+本次开发除了改善了之前的机制和修复了一些bug外，还加入了地形机制和状态效果机制，实装了部分图块的碰撞和导航，以及优化了AI的逻辑等。
+
+第一次原型开发，实际的结果是略高于预期的，原本觉得只靠最基础的地形机制不会有多有趣，结果实际测试发现有些方面比想象的有趣，不过也有一些地方比较无聊。
+
+有趣的方面包括利用地形将玩家绕得团团转的敌人，追逐过程中时而躲藏在视野看不到的地方需要猜测目标位置的感觉，以及速度太快偶尔扑空来回追逐的紧张感。
+
+比较无聊的地方则包括AI会卡在地形边缘的问题，AI的路径选择不太自然的问题，玩法有些单一、缺乏足够的策略性，有时玩家躲起来时会看到AI呆在原地停止运动，且玩家在AI视野边缘时AI会抖动的问题，游戏的难度有时过于简单，平衡性不太好的问题等。
+
+之后的迭代中会尽量解决这些问题，逐步优化原型。
+
+#+begin_export hugo
+{{< bilibili BV1sJ4m177dQ >}}
+#+end_export
+
+* 风雨旅记开发日志 #4 这次的迭代接近尾声，准备下一次迭代 :风雨旅记:游戏日志:
+DEADLINE: <2025-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/fuurain_nigigd_4
+:EXPORT_FILE_NAME: index
+:END:
+跟伙伴一起制作游戏挺有意思的，剧情思路也差不多快想清楚了。
+
+#+begin_export hugo
+{{< bilibili BV1Dc411L76U >}}
+#+end_export

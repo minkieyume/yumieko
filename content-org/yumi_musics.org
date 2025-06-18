@@ -16,7 +16,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV1po4y167RP >}}
 #+end_export
 
-* 飞鸟花落曲
+* 飞鸟花落曲 :初学曲:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/birdflowerblow
@@ -27,7 +27,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV14e41137wp >}}
 #+end_export
 
-* 绵延不断的旅途
+* 绵延不断的旅途 :初学曲:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/endlessendlessjournery
@@ -38,7 +38,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV1GD4y1q7PP >}}
 #+end_export
 
-* 星夜云端之旅
+* 星夜云端之旅 :初学曲:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/starnightcloud
@@ -49,7 +49,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV1kG411G7ji >}}
 #+end_export
 
-* 梦之序曲
+* 梦之序曲 :初学曲:梦真:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/yumestart
@@ -60,7 +60,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV1Ub411D7b7 >}}
 #+end_export
 
-* 星月夜、樱花舞
+* 星月夜、樱花舞 :樱花:星夜:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/galaxy_sakurafly
@@ -71,7 +71,7 @@ SCHEDULED: <2025-06-18 三>
 {{< bilibili BV1Q84y1u7Am >}}
 #+end_export
 
-* 星空下的秘密约定
+* 星空下的秘密约定 :星夜:星空:
 SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
