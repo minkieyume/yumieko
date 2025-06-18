@@ -10,10 +10,9 @@ SCHEDULED: <2025-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/magicgirl_fuu
 :EXPORT_FILE_NAME: index
-:EXPORT_HUGO_PAIRED_SHORTCODES: bilibili
 :END:
 这是给《风雨旅记》的主角小风写的曲子，大概是想写一首同时有活泼，不可捉摸感和中二气息的曲子吧。
-#+attr_shortcode: BV1po4y167RP
-#+begin_bilibili
+#+begin_export hugo
+{{< bilibili BV1po4y167RP >}}
+#+end_export hugo
 
-#+end_bilibili
