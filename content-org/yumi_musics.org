@@ -1,0 +1,14 @@
+#+hugo_base_dir: ~/工作目录/小梦之家/建站维护/yumieko/
+#+hugo_auto_set_lastmod: t
+#+hugo_custom_front_matter: toc true
+#+hugo_categories: 小梦音乐
+#+filetags: 小梦音乐
+#+Title:小梦音乐
+
+* 魔法少女小风，变身！ :小风:魔法少女:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/magicgirl_fuu
+:EXPORT_FILE_NAME: index
+:END:
+这是给《风雨旅记》的主角小风写的曲子，大概是想写一首同时有活泼，不可捉摸感和中二气息的曲子吧。
+{{< bilibili BV1po4y167RP >}}
