@@ -1,7 +1,7 @@
 +++
 title = "Godot 类东方 STG模板演示视频"
 author = ["MinkieYume"]
-lastmod = 2025-06-18T20:29:08+08:00
+lastmod = 2025-06-18T20:33:23+08:00
 tags = ["日志归档", "STG", "游戏日志", "东方Project"]
 categories = ["日志归档"]
 draft = false

@@ -134,3 +134,30 @@ DEADLINE: <2025-06-18 三 18:00>
 #+begin_export hugo
 {{< bilibili BV1Dc411L76U >}}
 #+end_export
+
+* GameJam练习作 - 少女与蚂蚁 :少女与蚂蚁:游戏演示:
+DEADLINE: <2020-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/gamejam2020
+:EXPORT_FILE_NAME: index
+:END:
+最近拿着2020年的CIGA Gamejam题材做的一款练习作小游戏，展示下自己的成品，
+如果有兴趣可以来试玩：
+https://wwd.lanzouw.com/iMhXQ061vxtg
+
+#+begin_export hugo
+{{< bilibili BV1k94y1m7Qs >}}
+#+end_export
+
+* 2022CIGA gamejam参赛作 「蜗牛少女」空中森林小队完成     :蜗牛少女:游戏演示:
+DEADLINE: <2022-06-18 三 18:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/gamejam2022
+:EXPORT_FILE_NAME: index
+:END:
+这是我的gamejam参赛第一作！本次gamejam的主题是trick，所以我们队伍一起做了个处处都是trick的游戏XD
+链接：https://pan.baidu.com/s/12j0WpxlS8KKbnX4lgVt2QQ ，提取码：i9mv
+
+#+begin_export hugo
+{{< bilibili BV1k94y1m7Qs >}}
+#+end_export
