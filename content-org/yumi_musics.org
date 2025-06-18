@@ -14,5 +14,4 @@ SCHEDULED: <2025-06-18 三>
 这是给《风雨旅记》的主角小风写的曲子，大概是想写一首同时有活泼，不可捉摸感和中二气息的曲子吧。
 #+begin_export hugo
 {{< bilibili BV1po4y167RP >}}
-#+end_export hugo
-
+#+end_export
