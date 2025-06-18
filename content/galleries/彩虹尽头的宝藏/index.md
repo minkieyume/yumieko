@@ -1,7 +1,8 @@
 +++
 title = "彩虹尽头的宝藏"
 author = ["MinkieYume"]
-lastmod = 2025-06-15T16:47:00+08:00
+publishDate = 2025-01-26T00:00:00-05:00
+lastmod = 2025-06-18T19:19:34+08:00
 tags = ["绘画笔记", "原创", "小风", "小雨", "风雨旅记"]
 categories = ["绘画笔记"]
 draft = false

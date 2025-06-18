@@ -1,15 +1,13 @@
 +++
 title = "ALiya一周目叙事分析"
 author = ["MinkieYume"]
-lastmod = 2025-06-11T12:40:34+08:00
+publishDate = 2025-01-05T20:19:00+08:00
+lastmod = 2025-06-18T19:17:11+08:00
 tags = ["作品感想", "彼方的她", "ALiya", "叙事分析"]
 categories = ["作品感想"]
 draft = false
 toc = true
 +++
-
-<span class="timestamp-wrapper"><span class="timestamp">[2025-01-05 日 20:19]</span></span>
-
 
 ## 剧情梳理 {#剧情梳理}
 

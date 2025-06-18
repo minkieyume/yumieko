@@ -1,7 +1,8 @@
 +++
 title = "魔法少女小风，变身！"
 author = ["MinkieYume"]
-lastmod = 2025-06-15T16:48:52+08:00
+publishDate = 2025-06-18T00:00:00+08:00
+lastmod = 2025-06-18T19:19:52+08:00
 tags = ["绘画笔记", "小风", "魔法少女"]
 categories = ["绘画笔记"]
 draft = false
