@@ -15,3 +15,80 @@ SCHEDULED: <2025-06-18 三>
 #+begin_export hugo
 {{< bilibili BV1po4y167RP >}}
 #+end_export
+
+* 飞鸟花落曲
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/birdflowerblow
+:EXPORT_FILE_NAME: index
+:END:
+初学LMMMS编曲软件时做的三首曲子之一。
+#+begin_export hugo
+{{< bilibili BV14e41137wp >}}
+#+end_export
+
+* 绵延不断的旅途
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/endlessendlessjournery
+:EXPORT_FILE_NAME: index
+:END:
+初学LMMMS编曲软件时做的三首曲子之一。
+#+begin_export hugo
+{{< bilibili BV1GD4y1q7PP >}}
+#+end_export
+
+* 星夜云端之旅
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/starnightcloud
+:EXPORT_FILE_NAME: index
+:END:
+初学LMMMS编曲软件时做的三首曲子之一。
+#+begin_export hugo
+{{< bilibili BV1kG411G7ji >}}
+#+end_export
+
+* 梦之序曲
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/yumestart
+:EXPORT_FILE_NAME: index
+:END:
+献给心目中守护梦与童真之神的曲子。
+#+begin_export hugo
+{{< bilibili BV1Ub411D7b7 >}}
+#+end_export
+
+* 星月夜、樱花舞
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/galaxy_sakurafly
+:EXPORT_FILE_NAME: index
+:END:
+又是一个尝试模仿东方Porject的风格做出的失败品，虽然也算不上很难听，但依然没什么东方味。
+#+begin_export hugo
+{{< bilibili BV1Q84y1u7Am >}}
+#+end_export
+
+* 星空下的秘密约定
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
+:EXPORT_FILE_NAME: index
+:END:
+「约好了哟～」许多年前的那一天，两位少女曾在这样的星空下许下了秘密的约定。
+#+begin_export hugo
+{{< bilibili BV1814y1f7tL >}}
+#+end_export
+
+* 重写梦之序曲Demo
+SCHEDULED: <2025-06-18 三>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
+:EXPORT_FILE_NAME: index
+:END:
+学了一段时间的编曲新人尝试重写第一次编的曲子，这是目前写出的一段DEMO，不确定有哪些地方需要修改和完善，也不确定如何进一步进行编曲，还请多多指教。
+#+begin_export hugo
+{{< bilibili BV1SvyJYdENj >}}
+#+end_export
