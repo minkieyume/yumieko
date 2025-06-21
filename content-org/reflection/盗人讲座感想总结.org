@@ -1,5 +1,6 @@
 #+hugo_base_dir: ~/yumieko/
-#+hugo_section: reflections
+#+hugo_section: reflections/drjz
+#+export_file_name: index.md
 #+hugo_auto_set_lastmod: t
 #+HUGO_PUBLISHDATE: 2025-06-21T06:41:00-05:00
 #+hugo_custom_front_matter: toc true
