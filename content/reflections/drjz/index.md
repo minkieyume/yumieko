@@ -2,8 +2,8 @@
 title = "盗人讲座感想总结"
 author = ["MinkieYume"]
 publishDate = 2025-06-21T06:41:00+08:00
-lastmod = 2025-06-21T19:03:35+08:00
-tags = ["作品感想", "盗人讲座"]
+lastmod = 2025-06-21T19:05:17+08:00
+tags = ["作品感想", "盗人讲座", "游戏感想"]
 draft = false
 toc = true
 +++

@@ -4,7 +4,7 @@
 #+hugo_auto_set_lastmod: t
 #+HUGO_PUBLISHDATE: 2025-06-21T06:41:00+08:00
 #+hugo_custom_front_matter: toc true
-#+filetags: 作品感想 盗人讲座
+#+filetags: 作品感想 盗人讲座 游戏感想
 #+TITLE: 盗人讲座感想总结
 * 前言
 这些是我游玩《盗人讲座》时的心得感想，我在这里做个汇总和记录，分享给大家。
