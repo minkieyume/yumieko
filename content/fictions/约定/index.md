@@ -1,7 +1,8 @@
 +++
 title = "约定"
 author = ["MinkieYume"]
-lastmod = 2025-06-18T19:23:24+08:00
+publishDate = 2024-01-26T00:00:00-05:00
+lastmod = 2025-06-21T09:07:04+08:00
 tags = ["短篇小说", "约定", "友情", "第三纪元", "终末之域", "小风", "小雨"]
 categories = ["短篇小说"]
 draft = false

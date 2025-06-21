@@ -1,7 +1,8 @@
 +++
 title = "春卷饭风沙丘猫"
 author = ["MinkieYume"]
-lastmod = 2025-06-18T19:20:25+08:00
+publishDate = 2024-01-26T00:00:00-05:00
+lastmod = 2025-06-21T09:03:37+08:00
 tags = ["绘画笔记", "春卷饭", "沙丘猫", "动物朋友", "同人"]
 categories = ["绘画笔记"]
 draft = false

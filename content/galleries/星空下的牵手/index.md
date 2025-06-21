@@ -1,7 +1,8 @@
 +++
 title = "星空下的牵手"
 author = ["MinkieYume"]
-lastmod = 2025-06-18T19:18:11+08:00
+publishDate = 2024-01-26T00:00:00-05:00
+lastmod = 2025-06-21T09:03:16+08:00
 tags = ["绘画笔记", "小风", "小雨", "星空", "牵手", "原创"]
 categories = ["绘画笔记"]
 draft = false
