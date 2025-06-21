@@ -1,7 +1,7 @@
 +++
 title = "风雨旅记开发日志 #3 愉快地推翻重来——和伙伴一起测试新的原型中"
 author = ["MinkieYume"]
-lastmod = 2025-06-18T20:38:41+08:00
+lastmod = 2025-06-21T09:17:00+08:00
 tags = ["日志归档", "风雨旅记", "游戏日志"]
 categories = ["日志归档"]
 draft = false

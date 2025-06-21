@@ -1,4 +1,4 @@
-#+hugo_base_dir: ~/工作目录/小梦之家/建站维护/yumieko/
+#+hugo_base_dir: ~/yumieko/
 #+hugo_auto_set_lastmod: t
 #+hugo_custom_front_matter: toc true
 #+hugo_categories: 小梦音乐
@@ -6,7 +6,7 @@
 #+Title:小梦音乐
 
 * 魔法少女小风，变身！ :小风:魔法少女:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2023-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/magicgirl_fuu
 :EXPORT_FILE_NAME: index
@@ -17,7 +17,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 飞鸟花落曲 :初学曲:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2022-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/birdflowerblow
 :EXPORT_FILE_NAME: index
@@ -28,7 +28,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 绵延不断的旅途 :初学曲:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2022-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/endlessendlessjournery
 :EXPORT_FILE_NAME: index
@@ -39,7 +39,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 星夜云端之旅 :初学曲:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2022-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/starnightcloud
 :EXPORT_FILE_NAME: index
@@ -50,7 +50,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 梦之序曲 :初学曲:梦真:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2022-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/yumestart
 :EXPORT_FILE_NAME: index
@@ -61,7 +61,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 星月夜、樱花舞 :樱花:星夜:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2023-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/galaxy_sakurafly
 :EXPORT_FILE_NAME: index
@@ -72,7 +72,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 星空下的秘密约定 :星夜:星空:
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2023-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
 :EXPORT_FILE_NAME: index
@@ -83,7 +83,7 @@ SCHEDULED: <2025-06-18 三>
 #+end_export
 
 * 重写梦之序曲Demo
-SCHEDULED: <2025-06-18 三>
+SCHEDULED: <2024-06-18 三>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
 :EXPORT_FILE_NAME: index
