@@ -85,7 +85,7 @@ SCHEDULED: <2023-06-18 三>
 * 重写梦之序曲Demo
 SCHEDULED: <2024-06-18 三>
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: musics/galaxy_secret_yakusouku
+:EXPORT_HUGO_SECTION: musics/drem_start
 :EXPORT_FILE_NAME: index
 :END:
 学了一段时间的编曲新人尝试重写第一次编的曲子，这是目前写出的一段DEMO，不确定有哪些地方需要修改和完善，也不确定如何进一步进行编曲，还请多多指教。
