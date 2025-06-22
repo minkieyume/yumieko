@@ -3,7 +3,6 @@
   src: url("/fonts/shangrira.woff") format('woff');
 }
 
-.shangrira {
+body {
     font-family: Shangrira;
-    font-size: 32px;
 }
