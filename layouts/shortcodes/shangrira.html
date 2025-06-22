@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>引用外部样式示例</title>
     <!-- 引入外部CSS文件 -->
-      {{ if .Site.Params.customCSS }}
-    {{ $style := resources.Match "css/**.css" | resources.Concat "shangrira.css" | minify | fingerprint }}
+    {{ if .Site.Params.customCSS }}
+    {{ $style := resources.Match "css/**.css" | resources.Concat "shangrira_font.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
     {{ end }}
 </head>
