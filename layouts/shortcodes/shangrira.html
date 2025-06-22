@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>引用外部样式示例</title>
+    <!-- 引入外部CSS文件 -->
+      {{ if .Site.Params.customCSS }}
+    {{ $style := resources.Match "css/**.css" | resources.Concat "shangrira.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+    {{ end }}
+</head>
+<body>
+  <!-- 使用外部样式的文本 -->
+  <p class="highlight-text">{{ .Get 0 }}</p>
+</body>
+</html>
