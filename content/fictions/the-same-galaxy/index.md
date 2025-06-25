@@ -1,8 +1,7 @@
 +++
 title = "同一片星空"
 author = ["MinkieYume"]
-publishDate = 2025-06-27T23:40:02+08:00
-lastmod = 2025-06-25T23:41:29+08:00
+lastmod = 2025-06-25T23:42:45+08:00
 tags = ["第六纪元", "繁星时代", "星空", "友情", "文明"]
 draft = false
 toc = true
