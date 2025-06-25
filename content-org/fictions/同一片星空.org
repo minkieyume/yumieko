@@ -2,9 +2,9 @@
 #+hugo_section: fictions/the-same-galaxy
 #+export_file_name: index.md
 #+hugo_auto_set_lastmod: t
-#+HUGO_PUBLISHDATE: 2025-06-27T20:41:00+08:00
+#+HUGO_PUBLISHDATE: 2025-06-27T23:40:02+08:00
 #+hugo_custom_front_matter: toc true
-#+filetags: 第六纪元 繁星时代 星空 友情
+#+filetags: 第六纪元 繁星时代 星空 友情 文明
 #+TITLE: 同一片星空
 
 * 序
