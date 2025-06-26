@@ -1,14 +1,14 @@
 +++
 title = "香格里拉文核心词表"
 author = ["MinkieYume"]
-lastmod = 2025-06-26T19:19:51+08:00
+lastmod = 2025-06-26T19:36:44+08:00
 tags = ["造语", "香格里拉文", "第五纪元", "单词", "词表", "核心词", "香格里拉"]
 categories = ["小梦造语"]
 draft = false
 toc = true
 +++
 
-{{< shangrira 16 >}}
+{{< shangrira 32 >}}
 \## 斯式核心词
 
 | 香文罗马音 | 香文注音 | 香文书写 | 含义    |
