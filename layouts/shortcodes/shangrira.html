@@ -1,3 +1,4 @@
+{{- $raw := (markdownify .Inner | chomp) -}}
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -10,10 +11,7 @@
 </head>
 <body>
   <div class="shangrira" style="font-size:{{ .Get 0 }}px">
-    {{ $lines := .Inner | split "\n" }}</div>
-    {{ range $lines }}
-      <p>{{ . }}</p>
-    {{ end }}
+    {{ $raw }}
   </div>
 </body>
 </html>
