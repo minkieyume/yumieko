@@ -8,7 +8,9 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
     {{ end }}
 </head>
-<body class="shangrira" style="font-size:{{ .Get 0}}px">
-  {{ .Inner }}
+<body>
+  <div class="shangrira" style="font-size:{{ .Get 0 | default "16px"}}px">
+    {{ .Inner }}
+  </div>
 </body>
 </html>
