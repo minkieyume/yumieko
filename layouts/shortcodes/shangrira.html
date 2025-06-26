@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 引入外部CSS文件 -->
     {{ if .Site.Params.customCSS }}
     {{ $style := resources.Match "css/**.css" | resources.Concat "shangrira_font.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
     {{ end }}
 </head>
 <body>
-  <!-- 使用外部样式的文本 -->
   <p style="font-size:{{ .Get 1}}px">{{ .Get 0 }}</p>
 </body>
 </html>
