@@ -1,0 +1,29 @@
+#+hugo_base_dir: ~/yumieko/
+#+hugo_auto_set_lastmod: t
+#+hugo_custom_front_matter: toc true
+#+hugo_categories: 小梦绘画
+#+filetags: 小梦绘画 绘画笔记
+#+Title:小梦绘画
+
+* ChikoChiko :心动:Qiko:自画像:
+SCHEDULED: <2025-07-01 二 08:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: galleries/chikochiko
+:EXPORT_FILE_NAME: index
+:END:
+
+[[file:~/工作目录/绘画创作/成品图/chikochiko_full.png]]
+
+ChikoChiko，用香格文罗马音表示为：qikoqiko。在香格里拉文中，代表的是想要什么但又不敢要的心动感，无论是想要传达什么、追求什么、诉说什么，但这些想法和欲望终究隐藏在脑海中，隐藏在意识深处。
+
+人类社会的规训制约着我们无法说出来这种情感。
+
+成熟的人也不会随意对待这种情感，因此化为心跳的萌动感。
+
+非常在意某人，因为喜欢某人的性格，于是总是胡思乱想，但内心深处也时不时想着，到底想要什么？朋友？不，才不是那种喜欢，才不是恋爱，然后视线稍稍别开，类似这样的心跳不已的情感便是QikoQiko。
+
+这张画，其实正是我对自己的一个写照，也算是我的自画像了。
+
+一个内心特别内向敏感，想要什么但是因为害怕受伤而不敢追求，长期没和异性正常相处导致和某些异性交朋友就容易QikoQiko，类似这样感觉的可爱猫耳少年，便是我的形象。
+
+因此我将内心的那份心动的情绪，那份QikoQiko，用画表现出来。

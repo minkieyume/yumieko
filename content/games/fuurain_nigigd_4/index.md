@@ -1,7 +1,7 @@
 +++
 title = "风雨旅记开发日志 #4 这次的迭代接近尾声，准备下一次迭代"
 author = ["MinkieYume"]
-lastmod = 2025-06-21T09:17:00+08:00
+lastmod = 2025-07-01T08:02:49+08:00
 tags = ["日志归档", "风雨旅记", "游戏日志"]
 categories = ["日志归档"]
 draft = false

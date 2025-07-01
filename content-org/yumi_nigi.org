@@ -161,3 +161,30 @@ DEADLINE: <2022-06-18 三 18:00>
 #+begin_export hugo
 {{< bilibili BV1KY411K7LS >}}
 #+end_export
+
+* 2025 CIGA参赛作 灵魂炼金师 :游戏演示:CIGA:灵魂炼金师:
+SCHEDULED: <2025-07-01 二 08:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/gamejam2025
+:EXPORT_FILE_NAME: index
+:END:
+
+最新的CIGA Gamejam参赛作，灵魂炼金师出来了。这是我第一次在线下参加Gamejam，很开心，心情也激动了很久，dokidoki的，感觉这次参加gamejam我自己也变得很猫咪了。
+虽然成品完成度不是很高，但也积累了宝贵的团队协作经验。
+
+#+begin_export hugo
+{{< bilibili BV1iCgZzvE5x >}}
+#+end_export
+
+* RM创作大赛作品 迷宫冒险 :游戏演示:RPGMAKER:RM创作大赛:
+SCHEDULED: <2025-06-30 三 08:00>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/rm-migong
+:EXPORT_FILE_NAME: index
+:END:
+
+RM创作大赛的作品，一款纯剧情向的游戏，因为是48小时赶出来的所以完成度很一般，但当时也把想表达的情绪写出来了。
+
+#+begin_export hugo
+{{< bilibili BV18mJazuEWo >}}
+#+end_export
