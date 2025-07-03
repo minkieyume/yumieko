@@ -9,8 +9,8 @@ title = "小梦的秘密基地"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo.png"
   description = "欢迎来到小梦的秘密基地~"
   copyright = "© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。"
 
