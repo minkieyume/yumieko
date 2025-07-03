@@ -1,0 +1,12 @@
+#+hugo_base_dir: ~/yumieko/
+#+hugo_section: fictions/the-same-galaxy
+#+export_file_name: index.md
+#+hugo_auto_set_lastmod: t
+#+hugo_custom_front_matter: toc true
+#+filetags: 琪可,明琪,小梦,心动,恋爱
+#+TITLE: 琪可琪可的心动史
+
+* 前言
+大家好，这里是明琪琪可，我是一个内向又敏感，容易心动和胡思乱想的男孩子。
+
+近期的经历和反思，让我意识到，总是闷在家里，不出门参加线下的社交活动，迟早会
