@@ -12,7 +12,7 @@ title = "小梦的秘密基地"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "欢迎来到小梦的秘密基地~"
-  copyright = "© 2025 MinkieYume 版权所有. 本作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。"
+  copyright = "© 2025 MinkieYume 版权所有。本作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。"
 
 [params.author]
  name = "明琪琪可"
