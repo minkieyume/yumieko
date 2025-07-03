@@ -12,53 +12,53 @@
 
 
 [[main]]
-  name = "小梦文学"
+  name = "琪可文学"
   pageRef = "fictions"
   weight = 10
 
 [[subnavigation]]
-  name = "小梦感想"
+  name = "琪可感想"
   pageRef = "reflections"
   weight = 11
 
 [[subnavigation]]
-  name = "小梦知识"
+  name = "琪可知识"
   pageRef = "knowleges"
   weight = 12
 
 [[subnavigation]]
-  name = "小梦程序"
+  name = "琪可程序"
   pageRef = "programs"
   weight = 18
 
 [[subnavigation]]
-  name = "小梦游戏"
+  name = "琪可游戏"
   pageRef = "games"
   weight = 14
 
 
 [[subnavigation]]
-  name = "小梦其它"
+  name = "琪可其它"
   pageRef = "others"
   weight = 25
 
 [[subnavigation]]
-  name = "小梦音乐"
+  name = "琪可音乐"
   pageRef = "musics"
   weight = 15
 
 [[main]]
-  name = "小梦画廊"
+  name = "琪可画廊"
   pageRef = "galleries"
   weight = 13
 
 [[main]]
-  name = "小梦宇宙"
+  name = "琪可宇宙"
   pageRef = "spaces"
   weight = 17
 
 [[main]]
-  name = "小梦造语"
+  name = "琪可造语"
   pageRef = "conlingue"
   weight = 16
 
@@ -95,7 +95,7 @@
 #  weight = 20
 
 [[main]]
-  name = "小梦标签"
+  name = "琪可标签"
   pageRef = "tags"
   weight = 30
 

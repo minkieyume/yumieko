@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
-title = "小梦的秘密基地"
+title = "明琪的秘密基地"
 
 [params]
   displayName = "CN"
@@ -11,15 +11,15 @@ title = "小梦的秘密基地"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   secondaryLogo = "img/logo.png"
-  description = "欢迎来到小梦的秘密基地~"
+  description = "欢迎来到明琪的秘密基地~"
   copyright = "© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。"
 
 [params.author]
  name = "明琪琪可"
  image = "img/author.png"
  imageQuality = 96
- headline = "别名明琪小梦，同人游戏创作者"
- bio = "这里是明琪琪可，又叫明琪小梦。我是一个对很多东西都感兴趣的同人游戏创作者，想要创作出能给孩子们带来梦想，让成年人返璞归真，所有人都能乐在其中的游戏。同时我也是一个内心比较细腻敏感的猫耳少年，也想要交更多志同道合的朋友。"
+ headline = "喜欢不可思议的同人游戏创作者"
+ bio = "这里是明琪琪可，又叫明琪小梦。是一个对很多东西都感兴趣的同人游戏创作者，喜欢童趣风格和富有思想深度的动漫、游戏、文学等作品，梦想是创作出能给孩子们带来梦想的游戏。同时也是一个内心比较细腻敏感的猫耳少年，因为喜欢可爱的东西，自己也想变得可爱，希望能认识更多志同道合的朋友。"
  links = [
  { github = "https://github.com/MinkieYume" },
  { bilibili = "https://space.bilibili.com/32190208" }
