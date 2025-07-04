@@ -11,61 +11,63 @@
 # ordered by weight from lowest to highest.
 
 
-[[subnavigation]]
+[[main]]
   name = "琪可文学"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "fictions"
   weight = 10
 
-[[subnavigation]]
+[[main]]
   name = "琪可感想"
+  parent = "琪可日常"
   pageRef = "reflections"
   weight = 11
 
-[[subnavigation]]
-  name = "琪可知识"
+[[main]]
+  name = "琪可学习"
+  parent = "琪可日常"
   pageRef = "knowleges"
   weight = 12
 
-[[subnavigation]]
+[[main]]
   name = "琪可程序"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "programs"
   weight = 18
 
-[[subnavigation]]
+[[main]]
   name = "琪可游戏"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "games"
   weight = 14
 
-
-[[subnavigation]]
-  name = "琪可其它"
+[[main]]
+  name = "琪可杂谈"
+  parent = "琪可日常"
   pageRef = "others"
   weight = 25
 
-[[subnavigation]]
+[[main]]
   name = "琪可音乐"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "musics"
   weight = 15
 
-[[subnavigation]]
+[[main]]
   name = "琪可画廊"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "galleries"
   weight = 13
 
-[[subnavigation]]
+[[main]]
   name = "琪可宇宙"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "spaces"
   weight = 17
 
-[[subnavigation]]
+[[main]]
   name = "琪可造语"
-  pre = "琪可创作"
+  parent = "琪可创作"
   pageRef = "conlingue"
   weight = 16
 
@@ -73,6 +75,11 @@
   name = "琪可创作"
   pageRef = "tags"
   weight = 10
+
+[[main]]
+  name = "琪可日常"
+  pageRef = "tags"
+  weight = 15
 
 [[main]]
   name = "琪可友链"
