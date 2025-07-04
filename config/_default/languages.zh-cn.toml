@@ -22,7 +22,8 @@ title = "明琪的秘密基地"
  bio = "这里是明琪琪可，又叫明琪小梦。是一个对很多东西都感兴趣的同人游戏创作者，喜欢童趣风格和富有思想深度的动漫、游戏、文学等作品，梦想是创作出能给孩子们带来梦想的游戏。同时也是一个内心比较细腻敏感的猫耳少年，因为喜欢可爱的东西，自己也想变得可爱，希望能认识更多志同道合的朋友。"
  links = [
  { github = "https://github.com/MinkieYume" },
- { bilibili = "https://space.bilibili.com/32190208" }
+ { youtube = "https://space.bilibili.com/32190208" },
+ { mastodon = "https://littlewings.yumieko.com/@minkieyume" }
  ]
 
 #   links = [

@@ -11,8 +11,9 @@
 # ordered by weight from lowest to highest.
 
 
-[[main]]
+[[subnavigation]]
   name = "琪可文学"
+  pre = "琪可创作"
   pageRef = "fictions"
   weight = 10
 
@@ -28,11 +29,13 @@
 
 [[subnavigation]]
   name = "琪可程序"
+  pre = "琪可创作"
   pageRef = "programs"
   weight = 18
 
 [[subnavigation]]
   name = "琪可游戏"
+  pre = "琪可创作"
   pageRef = "games"
   weight = 14
 
@@ -44,23 +47,37 @@
 
 [[subnavigation]]
   name = "琪可音乐"
+  pre = "琪可创作"
   pageRef = "musics"
   weight = 15
 
-[[main]]
+[[subnavigation]]
   name = "琪可画廊"
+  pre = "琪可创作"
   pageRef = "galleries"
   weight = 13
 
-[[main]]
+[[subnavigation]]
   name = "琪可宇宙"
+  pre = "琪可创作"
   pageRef = "spaces"
   weight = 17
 
-[[main]]
+[[subnavigation]]
   name = "琪可造语"
+  pre = "琪可创作"
   pageRef = "conlingue"
   weight = 16
+
+[[main]]
+  name = "琪可创作"
+  pageRef = "tags"
+  weight = 10
+
+[[main]]
+  name = "琪可友链"
+  pageRef = "friends"
+  weight = 18
 
 #[[main]]
 #  name = "Parent"
