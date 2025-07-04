@@ -3,7 +3,7 @@
 #+export_file_name: index.md
 #+hugo_auto_set_lastmod: t
 #+hugo_custom_front_matter: toc true
-#+filetags: 琪可,明琪,小梦,心动,恋爱
+#+filetags: 琪可 明琪 小梦 心动 恋爱
 #+TITLE: 琪可琪可的心动史
 
 * 前言
