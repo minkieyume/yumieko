@@ -1,7 +1,7 @@
 +++
 title = "2022CIGA gamejam参赛作 「蜗牛少女」空中森林小队完成"
 author = ["MinkieYume"]
-lastmod = 2025-07-01T08:02:49+08:00
+publishDate = 2022-06-18T18:00:00+08:00
 tags = ["日志归档", "蜗牛少女", "游戏演示"]
 categories = ["日志归档"]
 draft = false

@@ -1,7 +1,6 @@
 +++
 title = "香格里拉物语：小萱失踪案开发日志#1 新项目的立项"
 author = ["MinkieYume"]
-lastmod = 2025-07-01T08:02:49+08:00
 tags = ["日志归档", "香格里拉", "游戏日志"]
 categories = ["日志归档"]
 draft = false

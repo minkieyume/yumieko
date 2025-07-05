@@ -2,7 +2,6 @@
 title = "魔法少女小风，变身！"
 author = ["MinkieYume"]
 publishDate = 2023-06-18T00:00:00+08:00
-lastmod = 2025-06-21T09:26:48+08:00
 tags = ["小梦音乐", "小风", "魔法少女"]
 categories = ["小梦音乐"]
 draft = false

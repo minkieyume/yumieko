@@ -1,5 +1,4 @@
 #+hugo_base_dir: ~/yumieko/
-#+hugo_auto_set_lastmod: t
 #+hugo_custom_front_matter: toc true
 #+hugo_categories: 小梦音乐
 #+filetags: 小梦音乐

@@ -1,12 +1,11 @@
 #+hugo_base_dir: ~/yumieko/
-#+hugo_auto_set_lastmod: t
 #+hugo_custom_front_matter: toc true
 #+hugo_categories: 日志归档
 #+filetags: 日志归档
 #+Title:日志归档
 
 * 风雨旅记开发日志 #1基础的关卡原型完成 :风雨旅记:游戏日志:
-DEADLINE: <2023-06-18 三 18:00>
+SCHEDULED: <2023-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/fuurain_nigigd_1
 :EXPORT_FILE_NAME: index
@@ -18,7 +17,7 @@ DEADLINE: <2023-06-18 三 18:00>
 #+end_export
 
 * Godot 类东方 STG模板演示视频 :STG:游戏日志:东方Project:
-DEADLINE: <2022-06-18 三 18:00>
+SCHEDULED:<2022-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/godot_touhou_template
 :EXPORT_FILE_NAME: index
@@ -29,7 +28,7 @@ DEADLINE: <2022-06-18 三 18:00>
 #+end_export
 
 * 风雨旅记开发日志 #2战斗机制基本内容完成 :风雨旅记:游戏日志:
-DEADLINE: <2023-06-18 三 18:00>
+SCHEDULED:<2023-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/fuurain_nigigd_2
 :EXPORT_FILE_NAME: index
@@ -41,7 +40,7 @@ DEADLINE: <2023-06-18 三 18:00>
 #+end_export
 
 * 香格里拉物语：小萱失踪案开发日志#1 新项目的立项 :香格里拉:游戏日志:
-DEADLINE: <2024-06-18 三 18:00>
+SCHEDULED:: <2024-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/shangrira_gd_1
 :EXPORT_FILE_NAME: index
@@ -70,7 +69,7 @@ DEADLINE: <2024-06-18 三 18:00>
 
 
 * 风雨旅记开发日志 #3 愉快地推翻重来——和伙伴一起测试新的原型中 :风雨旅记:游戏日志:
-DEADLINE: <2023-06-18 三 18:00>
+SCHEDULED:: <2023-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/fuurain_nigigd_3
 :EXPORT_FILE_NAME: index
@@ -83,7 +82,7 @@ DEADLINE: <2023-06-18 三 18:00>
 #+end_export
 
 * 香格里拉物语：小萱失踪案开发日志#2简单的抓猫猫AI范例完成 :香格里拉:游戏日志:
-DEADLINE: <2024-06-18 三 18:00>
+SCHEDULED:: <2024-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/shangrira_gd_2
 :EXPORT_FILE_NAME: index
@@ -102,7 +101,7 @@ DEADLINE: <2024-06-18 三 18:00>
 #+end_export
 
 * 香格里拉物语：小萱失踪案开发日志#3 :香格里拉:游戏日志:
-DEADLINE: <2024-06-18 三 18:00>
+SCHEDULED: <2024-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/shangrira_gd_3
 :EXPORT_FILE_NAME: index
@@ -124,7 +123,7 @@ DEADLINE: <2024-06-18 三 18:00>
 #+end_export
 
 * 风雨旅记开发日志 #4 这次的迭代接近尾声，准备下一次迭代 :风雨旅记:游戏日志:
-DEADLINE: <2023-06-18 三 18:00>
+SCHEDULED: <2023-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/fuurain_nigigd_4
 :EXPORT_FILE_NAME: index
@@ -136,7 +135,7 @@ DEADLINE: <2023-06-18 三 18:00>
 #+end_export
 
 * GameJam练习作 - 少女与蚂蚁 :少女与蚂蚁:游戏演示:
-DEADLINE: <2020-06-18 三 18:00>
+SCHEDULED: <2020-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/gamejam2020
 :EXPORT_FILE_NAME: index
@@ -150,7 +149,7 @@ https://wwd.lanzouw.com/iMhXQ061vxtg
 #+end_export
 
 * 2022CIGA gamejam参赛作 「蜗牛少女」空中森林小队完成     :蜗牛少女:游戏演示:
-DEADLINE: <2022-06-18 三 18:00>
+SCHEDULED: <2022-06-18 三 18:00>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: games/gamejam2022
 :EXPORT_FILE_NAME: index

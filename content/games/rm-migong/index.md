@@ -2,7 +2,6 @@
 title = "RM创作大赛作品 迷宫冒险"
 author = ["MinkieYume"]
 publishDate = 2025-06-30T08:00:00+08:00
-lastmod = 2025-07-01T08:02:49+08:00
 tags = ["日志归档", "游戏演示", "RPGMAKER", "RM创作大赛"]
 categories = ["日志归档"]
 draft = false

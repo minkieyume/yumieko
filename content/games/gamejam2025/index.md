@@ -2,7 +2,6 @@
 title = "2025 CIGA参赛作 灵魂炼金师"
 author = ["MinkieYume"]
 publishDate = 2025-07-01T08:00:00+08:00
-lastmod = 2025-07-01T08:02:49+08:00
 tags = ["日志归档", "游戏演示", "CIGA", "灵魂炼金师"]
 categories = ["日志归档"]
 draft = false
