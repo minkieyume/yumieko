@@ -1,7 +1,7 @@
 +++
 title = "折腾Emacs的Guile开发环境的笔记"
 author = ["MinkieYume"]
-lastmod = 2025-07-05T10:03:05+08:00
+lastmod = 2025-07-05T12:01:03+08:00
 tags = ["程序", "折腾", "guile", "emacs"]
 draft = false
 toc = true
@@ -30,6 +30,14 @@ doas emerge --ask dev-scheme/guile
   :hook ((prog-mode conf-mode yaml-mode) . rainbow-delimiters-mode)
   :config
   (setq rainbow-delimiters-max-face-count 5))
+```
+
+然后最好安装一个强制匹配括号的插件，并绑定lisp模式，我用的paredit：
+
+```emacs-lisp
+(use-package paredit
+  :straight t
+  :hook((emacs-lisp-mode lisp-mode scheme-mode) . enable-paredit-mode))
 ```
 
 然后就是geiser的安装，这是chatGPT告诉我的插件，用于emacs中的guile交互式界面：

@@ -25,6 +25,13 @@ doas emerge --ask dev-scheme/guile
   (setq rainbow-delimiters-max-face-count 5))
 #+end_src
 
+然后最好安装一个强制匹配括号的插件，并绑定lisp模式，我用的paredit：
+  #+begin_src emacs-lisp
+(use-package paredit
+  :straight t
+  :hook((emacs-lisp-mode lisp-mode scheme-mode) . enable-paredit-mode))
+#+end_src
+
 然后就是geiser的安装，这是chatGPT告诉我的插件，用于emacs中的guile交互式界面：
 
 #+begin_src emacs-lisp
