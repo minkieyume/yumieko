@@ -28,6 +28,7 @@ ChikoChiko，用香格文罗马音表示为：qikoqiko。在香格里拉文中�
 因此我将内心的那份心动的情绪，那份QikoQiko，用画表现出来。
 
 * 美少女小梦的休憩 :小梦:夜之城传说:美少女:休憩:
+SCHEDULED: <2025-07-17 四 03:30>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: galleries/yumi-miwu
 :EXPORT_FILE_NAME: index
