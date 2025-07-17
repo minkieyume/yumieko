@@ -1,6 +1,7 @@
 +++
 title = "美少女小梦的休憩"
 author = ["MinkieYume"]
+publishDate = 2025-07-17T03:30:00+08:00
 tags = ["小梦绘画", "绘画笔记", "小梦", "夜之城传说", "美少女", "休憩"]
 categories = ["小梦绘画"]
 draft = false
