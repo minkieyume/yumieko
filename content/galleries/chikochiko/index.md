@@ -1,6 +1,6 @@
 +++
 title = "ChikoChiko"
-author = ["MinkieYume"]
+author = ["Minkieyume"]
 publishDate = 2025-07-01T08:00:00+08:00
 tags = ["小梦绘画", "绘画笔记", "心动", "Qiko", "自画像"]
 categories = ["小梦绘画"]
