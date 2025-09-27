@@ -48,14 +48,14 @@ SCHEDULED: <2025-07-17 四 03:30>
 
 就个人而言，人体虽然还是存在一定问题，但个人的风格已经达到了一个微妙的，相对稳定的平衡了，以后慢慢地继续进步也好。
 
-* 星夜巡礼
-SCHEDULED: <2025-09-27 六 02:52>
+* 星夜巡礼 :星夜:巡礼:星空:繁星时代:
+SCHEDULED: <2025-09-27 六 14:52>
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: galleries/starnight-xunli
 :EXPORT_FILE_NAME: index
 :END:
 
-[[file:~/Creator/remote/绘画创作/成品图/ 星夜巡礼.png][星夜巡礼]]
+[[file:~/Creator/remote/绘画创作/成品图/星夜巡礼.png]]
 
 亲爱的你，是否愿意与我一同踏上这趟巡礼之旅呢？
 

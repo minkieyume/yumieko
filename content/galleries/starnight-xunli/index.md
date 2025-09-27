@@ -1,14 +1,14 @@
 +++
 title = "星夜巡礼"
 author = ["Minkieyume"]
-publishDate = 2025-09-27T02:52:00+08:00
-tags = ["小梦绘画", "绘画笔记"]
+publishDate = 2025-09-27T14:52:00+08:00
+tags = ["小梦绘画", "绘画笔记", "星夜", "巡礼", "星空", "繁星时代"]
 categories = ["小梦绘画"]
 draft = false
 toc = true
 +++
 
-[星夜巡礼](</ox-hugo/ 星夜巡礼.png>)
+{{< figure src="/ox-hugo/星夜巡礼.png" >}}
 
 亲爱的你，是否愿意与我一同踏上这趟巡礼之旅呢？
 
