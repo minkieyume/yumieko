@@ -1,6 +1,6 @@
 +++
 title = "星夜巡礼"
-author = ["Minkieyume"]
+author = ["MinkieChiko"]
 publishDate = 2025-09-27T14:52:00+08:00
 tags = ["小梦绘画", "绘画笔记", "星夜", "巡礼", "星空", "繁星时代"]
 categories = ["小梦绘画"]
