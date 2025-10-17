@@ -8,7 +8,7 @@ draft = false
 toc = true
 +++
 
-[夜莺行动](/ox-hugo/月下的夜莺行动.jpg)
+{{< figure src="/ox-hugo/月下的夜莺行动.jpg" >}}
 
 终于，怪盗夜莺的形象设定也完成了，第一次将足够有辨识度和有足够魅力的一对CP角色设计好了呢。
 
