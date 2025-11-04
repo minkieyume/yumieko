@@ -23,7 +23,10 @@ title = "明琪的秘密基地"
  links = [
  { github = "https://github.com/MinkieYume" },
  { youtube = "https://space.bilibili.com/32190208" },
- { mastodon = "https://littlewing.yumieko.com/@minkieyume" }
+ { mastodon = "https://littlewing.yumieko.com/@minkieyume" },
+ { bluesky = "https://matrix.to/#/@minkieyume:chat.yumieko.com" },
+ { steam = "https://steamcommunity.com/id/minkiedash/" },
+ { email = "mailto:chiko@yumieko.com" }
  ]
 
 #   links = [
