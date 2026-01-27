@@ -1,3 +1,18 @@
++++
+title = "Peer Production License"
+author = ["MinkieYume"]
+draft = false
+toc = true
++++
+# 个人前言
+本协议文本来自：https://wiki.p2pfoundation.net/index.php/Peer_Production_License 。
+使用这个协议的初心，是因为我觉得之前写的创作者共享协议漏洞太多，叙述太笼统，然后看了看发现PPL协议已经完全覆盖了我的授权需求，所以决定直接使用了这条协议。
+简单来说，这个协议可以在确保我的作品能最大程度鼓励同人创作授权的同时，避免被大企业盗用素材、作品，或者拿去训练AI，而且像这种CopyfarLeft协议背后本身也有一个非盈利组织撑腰。
+
+**这条协议本身是基于CC-BY-NC-SA的，核心内容说白了就是，授权非商业用途使用，以及个人和劳动所有企业的商业使用。这里的劳动所有企业定义只按企业的股份和分配结构是否为劳动者所有或者按劳动分红，所以利润分红给所有成员的小规模工作室也满足劳动所有企业的定义。** 
+
+下面的就是这个协议的正文了，为避免误会还是保留原文。
+
 # PEER PRODUCTION LICENSE
 
 # LICENSE
