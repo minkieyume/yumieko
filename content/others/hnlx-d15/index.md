@@ -1,5 +1,5 @@
 +++
-title = "海南旅行日记D15D15 - 告别"
+title = "海南旅行日记D15 - 告别"
 author = ["MinkieYume"]
 date = 2025-12-18T00:00:00+08:00
 draft = false
