@@ -1,12 +1,12 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d14
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D14 - 火山海岸
-#+TAGS: date/2025-12-16 日记 旅行 儋州 火山海岸
++++
+title = "海南旅行日记D14 - 火山海岸"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记D14 - 火山海岸
+## 海南旅行日记D14 - 火山海岸 {#海南旅行日记d14-火山海岸}
 
 今天我来到了儋州，儋州有很多的特色景点，包括海花岛、洋浦港、千年古盐田、俄曼火山海岸、光村银滩等。
 

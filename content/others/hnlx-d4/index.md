@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d4
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D4 - 石头公园
-#+TAGS: date/2025-12-07 日记 旅行 文昌 D4 石头公园
++++
+title = "海南旅行日记D4 - 石头公园"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记-石头公园
+## 海南旅行日记-石头公园 {#海南旅行日记-石头公园}
+
 昨天晚上睡觉时突然发作胃病，胃酸反流伴随便秘和胀气的不适感非常严重，加上昨天登山导致身体过渡劳累，使得今天一上午都没有任何力气和精神。
 
 我将我的情况告诉了昨天认识的摩旅老哥，老哥对我很是关照，贴心地给了我胃药，因为我没有体力开车，于是今天一整天都让他帮忙开车去文昌市区玩耍。

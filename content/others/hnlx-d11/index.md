@@ -1,12 +1,12 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d11
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D11 - 西岛之旅
-#+TAGS: date/2025-12-14 日记 旅行 三亚 D11 西岛
++++
+title = "海南旅行日记D11 - 西岛之旅"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记D11 - 西岛之旅
+## 海南旅行日记D11 - 西岛之旅 {#海南旅行日记d11-西岛之旅}
 
 今天，我踏上了西岛，这是一个非常美丽的海岛，我乘坐游艇来到西岛，计划在这里悠闲地度过一整天。
 

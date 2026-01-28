@@ -1,12 +1,12 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d15
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D15D15 - 告别
-#+TAGS: date/2025-12-16 日记 旅行 临高 澄迈 告别 最后一天 D15
++++
+title = "海南旅行日记D15D15 - 告别"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记D15 - 告别
+## 海南旅行日记D15 - 告别 {#海南旅行日记d15-告别}
 
 今天就是旅途的最后一天了,我怀抱着依依不舍的眷恋感写下这篇日记。
 

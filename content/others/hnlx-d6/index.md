@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d6
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D6 - 万宁之旅
-#+TAGS: date/2025-12-09 日记 旅行 万宁 D6 日月湾 石梅湾 神州半岛
++++
+title = "海南旅行日记D6 - 万宁之旅"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记 - 万宁
+## 海南旅行日记 - 万宁 {#海南旅行日记-万宁}
+
 今天踏上了从琼海到万宁的旅途，在附近的超市买了份面包作为早餐，然后开车准备直接前往神洲半岛。
 
 开车途中经过了博鳌镇和又一大片椰林，虽然我并没有留意这一块区域，而是快速通过了。

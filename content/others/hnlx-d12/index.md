@@ -1,12 +1,12 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d12
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D12 - 天空之镜
-#+TAGS: date/2025-12-15 日记 旅行 三亚 乐东 天涯海角 D12 天空之镜 莺歌海 莺歌海盐场
++++
+title = "海南旅行日记D12 - 天空之镜"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记D12 - 天空之镜
+## 海南旅行日记D12 - 天空之镜 {#海南旅行日记d12-天空之镜}
 
 怀着满心的期待，我大清早就来到了西岛的海边上，亲眼看着天色逐渐变亮。很遗憾的是，因为天气问题，乌云挡住了阳光，我没能在西岛上看到日出。
 

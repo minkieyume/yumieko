@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d8
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D8 - 分界洲行
-#+TAGS: date/2025-12-11 日记 旅行 陵水 D8 分界洲岛 香水湾
++++
+title = "海南旅行日记D8 - 分界洲行"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记 - 分界洲行
+## 海南旅行日记 - 分界洲行 {#海南旅行日记-分界洲行}
+
 今天是快乐的一天，在高速走了一段段的长途先是来到了香水湾，我打卡了香水湾的小海滩，然后走高速前往分界洲岛码头。
 
 去的时候似乎还没多少人，可能是因为去得很早了吧，也很容易就找到了停车的位置。

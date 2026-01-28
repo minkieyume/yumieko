@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d0
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D0-启程
-#+TAGS: date/2025-12-03 日记 旅行 启程 海南
++++
+title = "海南旅行日记D0-启程"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记-启程
+## 海南旅行日记-启程 {#海南旅行日记-启程}
+
 怀抱着dokidoki的心情，今天终于上火车了呢，非常非常地期待这次旅行。
 
 上火车之前，我像上次去武汉前那样，也点了一餐戴上火车吃的肯德基放进背包里。

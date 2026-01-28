@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d3
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D3-高山火箭
-#+TAGS: date/2025-12-06 日记 旅行 文昌 D3 火箭
++++
+title = "海南旅行日记D3-高山火箭"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记-高山火箭
+## 海南旅行日记-高山火箭 {#海南旅行日记-高山火箭}
+
 第三日，我来到了文昌，这一次终于脱离了著名的驾车地狱之海口市中心区。文昌是一个很特别的城市，有着海南最长的一条海岸线，沿着海岸线不断行驶，沿途能看到许多美妙的风景。
 
 在路上，我经过了多个观景台，每个观景台都稍作停留，小憩片刻后拍了关于大海的照片。

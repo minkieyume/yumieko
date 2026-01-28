@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d7
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D7 - 清水猴子
-#+TAGS: date/2025-12-10 日记 旅行 陵水 D7 清水湾 猴岛 渔排
++++
+title = "海南旅行日记D7 - 清水猴子"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记 - 清水猴子
+## 海南旅行日记 - 清水猴子 {#海南旅行日记-清水猴子}
+
 从兴隆出发，在盘山公路上行驶，感受着早晨山中的大雾，看着远方雾笼罩的山峰也是一种别样的滋味呢。
 
 穿过环岛高速，来到了陵水的新港镇，刚一下车，一股鱼腥味扑面而来，这里是一座港镇，港的对面是著名的dan家渔排，那是世世代代以养鱼为生的渔民们的住所。

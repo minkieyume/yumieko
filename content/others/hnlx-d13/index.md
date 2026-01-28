@@ -1,12 +1,12 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d13
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D13 - 棋子湾日落
-#+TAGS: date/2025-12-16 日记 旅行 东方 昌江 棋子湾 日落
++++
+title = "海南旅行日记D13 - 棋子湾日落"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记D13 - 棋子湾日落
+## 海南旅行日记D13 - 棋子湾日落 {#海南旅行日记d13-棋子湾日落}
 
 今天一大早，我就来到了东方的鱼鳞洲，这是一个比较小的景点，但能在这儿看见火山石构成的海岸，左手边能看见大量的风车，右手边则能看见鱼鳞洲著名的灯塔。
 

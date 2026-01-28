@@ -1,12 +1,13 @@
-#+hugo_base_dir: ~/yumieko/
-#+hugo_section: others/hnlx-d9
-#+export_file_name: index.md
-#+date: <2025-12-18 四>
-#+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D9 - 初入三亚
-#+TAGS: date/2025-12-12 日记 旅行 三亚 D9 冲浪 后海村 太阳湾 亚龙湾
++++
+title = "海南旅行日记D9 - 初入三亚"
+author = ["MinkieYume"]
+date = 2025-12-18T00:00:00+08:00
+draft = false
+toc = true
++++
 
-* 海南旅行日记 - 初入三亚
+## 海南旅行日记 - 初入三亚 {#海南旅行日记-初入三亚}
+
 昨天游览完分界洲后，我又逛过了三亚的国际免税城，那个免税城感觉最强眼的还是Chiikawa主题快闪店，在免税城各处都有chiikawa的宣传和贴纸装饰。
 
 然后我入住的是一家很有日式氛围的小镇民宿，这个叫龙海镇，这里的建筑和布局，总是给我一种日式氛围的感觉。
