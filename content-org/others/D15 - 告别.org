@@ -3,7 +3,7 @@
 #+export_file_name: index.md
 #+date: <2025-12-18 四>
 #+hugo_custom_front_matter: toc true
-#+TITLE: 海南旅行日记D15D15 - 告别
+#+TITLE: 海南旅行日记D15 - 告别
 #+TAGS: date/2025-12-16 日记 旅行 临高 澄迈 告别 最后一天 D15
 
 * 海南旅行日记D15 - 告别
