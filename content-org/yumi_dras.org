@@ -130,3 +130,23 @@ SCHEDULED: <2026-01-13 二>
 这次的构图，其实本来也没什么灵感的，于是就想着随便画画，就画了个黑暗中等待着的Niko。
 
 感觉这一次的光影上色是比较考验个人功底的，毕竟要突出太阳和太阳一般发光的Niko的眼睛。
+
+* 箱子怪盗 :箱子怪盗:KaitouHako:Hako:
+SCHEDULED: <2026-02-03 二>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: galleries/kaitou-hako-desu
+:EXPORT_FILE_NAME: index
+:END:
+[[file:~/Creator/remote/绘画创作/成品图/kaitou-hako.png]]
+
+[[file:~/Creator/remote/绘画创作/成品图/箱子怪盗的逃亡.png]]
+
+[[file:~/Creator/remote/绘画创作/成品图/A Night City.png]]
+
+2026GGJ时绘制的作品，为我的GGJ游戏箱子怪盗画的，这次gamejam一口气绘制了三幅画。
+
+三幅画名称分别是：箱子怪盗登场！ 箱子怪盗的逃亡！和 A Night City。
+
+第一张我尝试了下用别的颜色描边，效果似乎不太好，于是第二张我干脆画了个萌萌的Q版，并用原来的黑色描边。
+
+第三张，因为不太会画城市背景，所以最后就干脆随便拿了个印象画风格的画笔涂了下，没想到效果还意外地不错，也许印象画笔本身就很容易画出有感觉的画吧。（笑）
