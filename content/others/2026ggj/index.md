@@ -1,7 +1,7 @@
 +++
 title = "2026GGJ创作心得"
 author = ["MinkieYume"]
-lastmod = 2026-02-03T21:11:01+08:00
+lastmod = 2026-02-03T21:23:06+08:00
 tags = [2026, "GGJ", "GlobalGameJam", "Trial", "创作心得"]
 draft = false
 toc = true
