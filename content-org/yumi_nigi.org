@@ -187,3 +187,19 @@ RM创作大赛的作品，一款纯剧情向的游戏，因为是48小时赶出�
 #+begin_export hugo
 {{< bilibili BV18mJazuEWo >}}
 #+end_export
+
+* 2026 GGJ参赛作品 箱子怪盗 :游戏演示:GlobalGameJam:GGJ:箱子怪盗: 
+SCHEDULED: <2026-02-03 二>
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: games/kaitou-hako
+:EXPORT_FILE_NAME: index
+:END:
+
+这是我第一次不组队，全栈参加Gamejam做的游戏，同时这次游戏也是我第一次尝试Trial引擎做的。
+
+Windows版：https://www.gmhub.com/game/8966
+Linux版：https://minkieyume.itch.io/ggj-2026-game-stole-the-chest
+
+#+begin_export hugo
+{{< bilibili BV1vt6tBuEmY >}}
+#+end_export
