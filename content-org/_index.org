@@ -3,6 +3,8 @@
 #+export_file_name: _index
 
 #+Title:欢迎来到明琪的秘密基地
+* 迁移公告
+*本站正逐步迁移到新的域名：* [[https://yumieko.kikowiwu.com][yumieko.kikowiwu.com]] 和 [[https://himiano.kikowiwu.com][himiano.kikowiwu.com]]，原域名将保留到2027年底，请大家收藏和关注新的域名。
 * 个人信息
 - *GPG公钥：*[[https://www.yumieko.com/minkie_pubkey.asc][Key]] | 8B51 1915 2F78 6244 2134  970B E870 08DA 0EDA C449
 * 欢迎来到明琪的秘密基地
